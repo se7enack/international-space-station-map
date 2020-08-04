@@ -24,4 +24,4 @@ This was written on a Mac. It will save the image (by default to the desktop). I
 
 
 Screenshot:
-![Alt text](https://github.com/se7enack/international-space-station-map/blob/master/ScreenShot!.jpg?raw=true "International Space Station Map")
+![Alt text](https://github.com/se7enack/international-space-station-map/blob/master/issexample.jpg?raw=true "International Space Station Map")
