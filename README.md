@@ -16,7 +16,7 @@ docker build -t se7enack/iss:v1 .
 
 
 4. Run:
-docker run  -v $HOME/Desktop:/tmp se7enack/iss:v1
+docker run  -v $HOME/Desktop:/tmp se7enack/iss:v1; open ~/Desktop/iss.jpg
 
 
 Considerations:
