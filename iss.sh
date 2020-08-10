@@ -1,9 +1,9 @@
 
-#international-space-station-map
+#https://github.com/se7enack/international-space-station-map
 
 apikey="YOUR API KEY GOES HERE"
 
-watermark='G e t B u r k e . c o m  .'
+watermark='g i t h u b . c o m / s e 7 e n a c k / i n t e r n a t i o n a l - s p a c e - s t a t i o n - m a p  .'
 
 pos=$(curl http://api.open-notify.org/iss-now.json)
 long=$(echo  $pos | jq '.iss_position | .longitude' | tr -d '"')
